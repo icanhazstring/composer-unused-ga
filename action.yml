@@ -3,3 +3,6 @@ description: 'Run composer-unused to scan for unused composer dependencies'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'activity'
+  color: 'orange'
