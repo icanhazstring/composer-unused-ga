@@ -1,4 +1,4 @@
-name: 'composer-unused-ga'
+name: 'composer-unused'
 description: 'Run composer-unused to scan for unused composer dependencies'
 runs:
   using: 'docker'
