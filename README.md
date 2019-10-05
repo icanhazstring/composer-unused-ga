@@ -27,4 +27,4 @@ https://hub.docker.com/r/icanhazstring/composer-unused-ga
 
 You can run it in any given directory like this:
 
-`docker run --rm -it -w=/app -v ${PWD}:/app icanhazstring/composer-unused-ga:latest
+`docker run --rm -it -w=/app -v ${PWD}:/app icanhazstring/composer-unused-ga:latest`
