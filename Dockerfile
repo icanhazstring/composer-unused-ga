@@ -24,7 +24,5 @@ RUN apt-get update \
     && docker-php-ext-install intl\
     && rm -r /var/lib/apt/lists/*
 
-RUN composer global require icanhazstring/composer-unused
-
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
