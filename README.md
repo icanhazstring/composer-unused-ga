@@ -1,7 +1,10 @@
-# GithubAction for composer-unused
 
 ⚠️ This repository is now archived!
 Please use https://github.com/shivammathur/setup-php#wrench-tools-support to setup composer-unused inside your github workflows.
+
+---
+
+# GithubAction for composer-unused
 
 ## Usage
 
